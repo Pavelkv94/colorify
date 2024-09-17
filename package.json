@@ -1,0 +1,21 @@
+{
+  "name": "@pavelkv94/colorify",
+  "version": "0.0.5",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [],
+  "author": "Pavelkv94",
+  "license": "Apache-2.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pavelkv94/colorify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pavelkv94/colorify/issues"
+  },
+  "homepage": "https://github.com/Pavelkv94/colorify#readme"
+}
