@@ -1,12 +1,28 @@
 {
   "name": "@pavelkv94/colorify",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "files": [
     "index.js",
     "index.d.ts"
   ],
-  "keywords": [],
+  "keywords": [
+    "console",
+    "colors",
+    "colorize",
+    "text-color",
+    "terminal",
+    "styling",
+    "logging",
+    "cli",
+    "ansi",
+    "output",
+    "pretty-print",
+    "text-formatting",
+    "console-styling",
+    "command-line",
+    "npm-package"
+  ],
   "author": "Pavelkv94",
   "license": "Apache-2.0",
   "description": "",
